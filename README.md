@@ -1,2 +1,2 @@
 # Random-Access-Aliens
-Game for Ludum Dare 36 compo
+A game I made for LD36 compo using my own engine [Terminal Play](https://github.com/edve98/Terminal-Play).
